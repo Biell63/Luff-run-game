@@ -2,7 +2,7 @@
 
 Um jogo simples de pulo infinito onde você controla o Luffy pulando sobre ondas de água em uma praia paradisíaca.
 
-https://github.com/user-attachments/assets/11c8bce1-3069-451c-8c88-f3461b0a698e
+https://github.com/user-attachments/assets/204a00cb-88a1-491f-8ce2-4c39f1e8c86a
 
 ## 🎮 Como Jogar
 
